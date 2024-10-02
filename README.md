@@ -55,7 +55,7 @@ import {
 
 The constructor for `AdmissibleEmailPasswordless` requires an `AdmissibleConfig` object.
 Be sure to review the doc-comments for the properties in `AdmissibleConfig`:
-[lib/admissible.ts](https://github.com/joagr/admissible-email-passwordless/blob/main/lib/admissible.ts)
+[lib/admissible.ts](https://github.com/joagr/admissible-email-passwordless/blob/main/lib/index.ts)
 The default values will **NOT** all work for you.
 
 

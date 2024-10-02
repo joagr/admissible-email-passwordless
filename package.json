@@ -1,6 +1,6 @@
 {
   "name": "admissible-email-passwordless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CDK construct and supporting Lambdas for Cognito custom email passwordless authentication",
   "author": "John Green <john@joanju.com>",
   "main": "lib/index.js",
