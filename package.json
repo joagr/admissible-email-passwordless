@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "CDK construct and supporting Lambdas for Cognito custom email passwordless authentication",
   "author": "John Green <john@joanju.com>",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "license": "MIT",
   "homepage": "https://github.com/joagr/admissible-email-passwordless",
   "repository": {

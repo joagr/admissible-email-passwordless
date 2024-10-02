@@ -6,8 +6,6 @@
       "es2020",
       "dom"
     ],
-    "outDir": "dist",
-    "sourceMap": true,
     "declaration": true,
     "strict": true,
     "noImplicitAny": true,
@@ -26,7 +24,7 @@
       "./node_modules/@types"
     ]
   },
-  "exclude": [
-    "node_modules",
-  ]
+  "files": [
+    "lib/index.ts"
+  ],
 }
